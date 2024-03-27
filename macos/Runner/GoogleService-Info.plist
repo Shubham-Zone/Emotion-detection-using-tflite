@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAkbFiLS9WNCgi2Jyg4Uh8d-Gv98YyuMFo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>981810997654</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.emotionDetection.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>emotion-detection-53a5c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emotion-detection-53a5c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:981810997654:ios:f0f2f230fb10a9434ed5b7</string>
+</dict>
+</plist>
