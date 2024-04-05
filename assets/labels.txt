@@ -1,4 +1,7 @@
 0 Happy
-1 Angry
-2 Sad
-3 Ram bhakt
+1 Sad
+2 Surprised
+3 Fearful
+4 Angry
+5 Disgusted
+6 Neutral
